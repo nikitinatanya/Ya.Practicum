@@ -22,10 +22,12 @@
 
 <br>
 <span align="center">
-  
-[E-mail](mailto:nikitina.tv.82@yandeх.ru)  
-[Telegram](https://t.me/nikitina_tv)
 
-[Сертификат](https://drive.google.com/file/d/1uWjZdQOXy5433Q9eTEPKlOby_c_BxMSH/view?usp=sharing)
+## Контакты:  
+nikitina.tv.82@yandeх.ru  
+https://t.me/nikitina_tv
+
+## Сертификат:
+[Посмотреть сертификат](https://drive.google.com/file/d/1uWjZdQOXy5433Q9eTEPKlOby_c_BxMSH/view?usp=sharing)
 
 </span>
