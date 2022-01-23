@@ -12,5 +12,5 @@
 `Python`  `Pandas`  `Scikit-learn`  `Matplotlib`  `Seaborn`  `Tableau`  `машинное обучение`  `классификация`  `кластеризация` `описательная статистика`  `проверка статистических гипотез`
 
 ## Материалы  
-[Презентация](https://drive.google.com/file/d/1BfDSUQ1cCwE2biVUQ2_ZRJ4tTddseNrq/view?usp=sharing)
-[Дашборд](https://public.tableau.com/app/profile/tanya7450/viz/bank_churn_v2/Dashboard?publish=yes0
+[Презентация](https://drive.google.com/file/d/1BfDSUQ1cCwE2biVUQ2_ZRJ4tTddseNrq/view?usp=sharing)  
+[Дашборд](https://public.tableau.com/app/profile/tanya7450/viz/bank_churn_v2/Dashboard?publish=yes0)
