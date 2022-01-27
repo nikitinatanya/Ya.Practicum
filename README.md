@@ -1,4 +1,3 @@
-< img src="C:\Users\Таня\Documents\GitHub\yandex-practicum-projects\image.png" alt="yandex_pr"/>
 <h1 style="font-weight:normal" align="center">
   &nbsp;Проекты Data Analyst&nbsp;
 </h1>
